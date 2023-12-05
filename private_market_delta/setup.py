@@ -1,5 +1,5 @@
 from setuptools import find_packages, setup
-
+from src.data import make_dataset
 setup(
     name='src',
     packages=find_packages(),

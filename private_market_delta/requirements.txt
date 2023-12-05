@@ -31,5 +31,9 @@ black>=23.3.0,<23.4
 # Sphinx
 # coverage
 # awscli
-# flake8
+flake8
+isort
 # python-dotenv>=0.5.1
+pre-commit
+Pycaret
+tvdatafeed
